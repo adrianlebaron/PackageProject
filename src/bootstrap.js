@@ -22,3 +22,5 @@ import moment from 'moment';
 //  const twoWeeksFromNow = moment().add(14, 'days');
 //  const anotherTwoWeeksFromNow = moment().add(2, 'weeks');
 //  const sixMonthsAgo = moment().subtract(6, 'm'); 
+
+// https://devhints.io/moment cheatsheet website
